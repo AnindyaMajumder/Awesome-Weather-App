@@ -15,7 +15,7 @@ Awesome Weather App is a dynamic web application that allows users to check the 
 - **Frontend**: JSP, HTML, CSS, and JavaScript
 - **External Libraries**: Gson for parsing JSON data from external APIs.
 
-## Setup and Installation
+## Usage
 
 Follow these steps to set up and run the Awesome Weather App on your local machine:
 
