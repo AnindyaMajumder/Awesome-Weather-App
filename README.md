@@ -15,7 +15,7 @@ Awesome Weather App is a dynamic web application that allows users to check the 
 - **Frontend**: JSP, HTML, CSS, and JavaScript
 - **External Libraries**: Gson for parsing JSON data from external APIs.
 
-## Usage
+## Setup and Installation
 
 Follow these steps to set up and run the Awesome Weather App on your local machine:
 
@@ -35,7 +35,7 @@ Follow these steps to set up and run the Awesome Weather App on your local machi
      http://localhost:8080/
      ```
 
-## Setup and Installation
+## Usage
 
 1. Open the application in your browser.
 2. Enter the name of the city in the search bar.
