@@ -37,7 +37,7 @@ public class WeatherApp extends HttpServlet {
     }
 
     public void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
-        String api_key = "bbdd9c72be99ee68c5f09f056b9cd1ab";
+        String api_key = "inject_your_api_key";
         String city = request.getParameter("city");
         if (city == null || city.isEmpty()) {
             // response.sendError(HttpServletResponse.SC_BAD_REQUEST, "City parameter is mandatory");
