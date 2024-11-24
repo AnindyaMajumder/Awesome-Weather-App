@@ -42,6 +42,10 @@ Follow these steps to set up and run the Awesome Weather App on your local machi
 3. View the current weather conditions, along with additional data like humidity and wind speed.
 4. Enjoy the interactive GIFs that change dynamically based on the weather conditions.
 
+## Project Video
+
+Awesome-Weather-Application: [https://youtu.be/jWTlgRTjVV8](url)
+
 ## License
 
 This project is licensed under [Apache License 2.0](https://github.com/AnindyaMajumder/Awesome-Weather-App/blob/main/LICENSE).
