@@ -44,7 +44,7 @@ Follow these steps to set up and run the Awesome Weather App on your local machi
 
 ## Project Video
 
-Awesome-Weather-Application: [https://youtu.be/jWTlgRTjVV8](url)
+Awesome-Weather-Application: [https://youtu.be/jWTlgRTjVV8]([url](https://youtu.be/jWTlgRTjVV8))
 
 ## License
 
